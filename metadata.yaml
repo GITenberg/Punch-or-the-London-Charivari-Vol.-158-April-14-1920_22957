@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22957#Punch-or-the-London-Charivari-Vol.-158-April-14-1920
 gutenberg_bookshelf: Punch
 gutenberg_issued: '2007-10-11'
 gutenberg_type: Text
